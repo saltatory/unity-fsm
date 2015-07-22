@@ -42,7 +42,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Saltatory.FSM;
 
-public class Ball : StateMachine {
+public class Thingy : StateMachine {
 
 	private Rigidbody2D rb ;
 	private bool acceptInput = true;
